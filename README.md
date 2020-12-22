@@ -27,7 +27,7 @@ $ mkdir newFolder
 $ cd newFolder
 $ git clone
 $ touch .dotenv
-$ add the your email and password
+$ add the your email and password inside .dotenv file
 $ npm install --force
 $ npm start
 ```
