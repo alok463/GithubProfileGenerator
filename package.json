@@ -1,0 +1,22 @@
+{
+  "name": "githubprofile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ALOK P",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0",
+    "email-validator": "^2.0.4",
+    "fs-extra": "^9.0.1",
+    "inquirer": "^7.3.3",
+    "nodemailer": "^6.4.17",
+    "nodemon": "^2.0.6",
+    "puppeteer": "^5.5.0",
+    "util": "^0.12.3"
+  }
+}
