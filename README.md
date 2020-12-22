@@ -28,6 +28,7 @@ $ cd newFolder
 $ git clone
 $ touch .dotenv
 $ add the your email and password inside .dotenv file
+$ del package-lock.json
 $ npm install --force
 $ npm start
 ```
