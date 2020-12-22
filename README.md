@@ -25,7 +25,7 @@ To run this project locally on your machine follow the below mentioned steps
 ```
 $ mkdir newFolder
 $ cd newFolder
-$ git clone
+$ git clone https://github.com/alok463/GithubProfileGenerator.git
 $ touch .dotenv
 $ add the your email and password inside .dotenv file
 $ del package-lock.json
