@@ -17,7 +17,7 @@ I used the following Node libraries to create this project
 * axios (To data request to an external API)
 * Inquirer (For making input prompts)
 	
-## Things that I learnt during this course of this  project
+## Things that I learnt during the course of this  project
 * Promises and Async/Await Concepts
 * FS modules, axios and nodemailer
 ## Setup
